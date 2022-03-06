@@ -94,6 +94,7 @@ A list of mature apps built with Material-UI Design.
 - [Builder Book](https://builderbook.org/) - Books that teach you how to build full stack, production-ready web apps.
 - [NPM registry browser](https://topheman.github.io/npm-registry-browser/) - An open source web app that lets you search the npm registry and browse packages details.
 - [Serverless Permission Policy Generator](https://github.com/Open-SL/serverless-permission-generator) - An Online Application to generate AWS IAM permissions required for deploying a Serverless stack.
+- [Work in biotech](https://workinbiotech.com/) - Job board for biotech startups.
 
 ## Boilerplates
 
